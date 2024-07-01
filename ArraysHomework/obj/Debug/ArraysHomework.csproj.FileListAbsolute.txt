@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe.config
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.exe
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\bin\Debug\ArraysHomework.pdb
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.exe
+C:\Users\90506\source\repos\ArraysHomework\ArraysHomework\obj\Debug\ArraysHomework.pdb
