@@ -14,7 +14,7 @@ namespace ArraysHomework
         {
             int[] sayilar = { 12, 25, 43, -20, 65, 1, 9, 15, 25, 65, -86, -4300, 123, 45, 12 };
 
-            #region Dizi içerisindeki sayıların ortalamasını buldurunuz -ÖDEV
+            #region Dizi içerisindeki sayıların ortalamasını buldurunuz - ÖDEV
 
             //double toplam = 0;
 
@@ -55,6 +55,57 @@ namespace ArraysHomework
             //Console.WriteLine(adet);
             #endregion
 
+            #region Dizi içerisindeki en küçük sayıyı bulunuz - ÖDEV
+
+            //int enkucuk = sayilar[0];
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] < enkucuk)
+            //    {
+            //        enkucuk = sayilar[i];
+            //    }
+
+            //}
+            //Console.WriteLine("En kücük sayı: " + enkucuk);
+
+            #endregion
+
+            #region Dizi içerisindeki en büyük sayı ile en küçük sayının yerini değiştiriniz - ÖDEV
+            //int enkucuk = sayilar[0];
+            //int indexenkucuk = 0;
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] < enkucuk)
+            //    {
+            //        enkucuk = sayilar[i];
+            //        indexenkucuk = i;
+            //    }
+            //}
+            //Console.WriteLine("En kücük sayı: " + enkucuk);
+            //Console.WriteLine(indexenkucuk);
+
+            //int enbuyuk = sayilar[0];
+            //int indexenbuyuk = 0;
+            //for (int i = 0; i < sayilar.Length; i++)
+            //{
+            //    if (sayilar[i] > enbuyuk)
+            //    {
+            //        enbuyuk = sayilar[i];
+            //        indexenbuyuk = i;
+            //    }
+            //}
+            //Console.WriteLine("En büyük sayı: " + enbuyuk);
+            //Console.WriteLine(indexenbuyuk);
+           
+            //sayilar[11] = enbuyuk;
+            //sayilar[12] = enkucuk;
+
+            //for (int i = 0;     i < sayilar.Length; i++)
+            //{
+            //    Console.WriteLine(sayilar[i]);
+            //}
+
+            #endregion
         }
     }
 }
